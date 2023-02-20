@@ -1,0 +1,6 @@
+.listProduct{
+    display:grid;
+    grid-auto-columns: auto;
+    grid-gap: 10px;
+}
+
